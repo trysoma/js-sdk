@@ -1,0 +1,16 @@
+{
+  "name": "@trysoma/js-sdk",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "@a2a-js/sdk": "^0.2.2",
+    "@grpc/grpc-js": "^1.13.4",
+    "@protobuf-ts/runtime-rpc": "^2.11.1"
+  }
+}
