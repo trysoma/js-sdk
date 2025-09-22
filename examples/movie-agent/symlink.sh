@@ -1,0 +1,2 @@
+rm -rf ./node_modules/@a2a-js/sdk/build
+ln -s /Users/danielblignaut/Development/human_and_i/a2a/a2aproject-a2a-js/build /Users/danielblignaut/Development/human_and_i/a2a/example-agent/node_modules/@a2a-js/sdk/build
